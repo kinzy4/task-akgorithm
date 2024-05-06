@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1714948679 source:c:\users\kinzy\onedrive\desktop\nonrecursive\main.cpp
+	<iostream>
+	<string>
+	<bits/stdc++.h>
+
